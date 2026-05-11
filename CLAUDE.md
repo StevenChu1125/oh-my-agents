@@ -58,4 +58,4 @@ Architecture (incl. Anthropic 3-agent mapping): [docs/ARCHITECTURE.md](docs/ARCH
 6. No auto-generated rules — human-gated TASTE encoding only.
 
 Full constraints + rationale: [docs/INTEGRATION.md#anti-bloat-constraints](docs/INTEGRATION.md).
-Latest decision record: [docs/TEAM-DISCUSSION-2026-05-08.md](docs/TEAM-DISCUSSION-2026-05-08.md).
+Latest decision record: [docs/history/TEAM-DISCUSSION-2026-05-08.md](docs/history/TEAM-DISCUSSION-2026-05-08.md).

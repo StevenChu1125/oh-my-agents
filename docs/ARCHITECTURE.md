@@ -123,7 +123,11 @@ docs/                                     # Template docs for target projects
 ├── PROVIDERS.md                          # Cross-cutting interface definition
 ├── OBSERVABILITY.md                      # Logging, metrics, tracing strategy
 ├── WORKFLOW.md                           # Full development lifecycle
-└── INTEGRATION.md                        # gstack integration guide and artifact bridges
+├── INTEGRATION.md                        # gstack integration guide and artifact bridges
+└── history/                              # Historical team discussion records
+    ├── TEAM-DISCUSSION-2026-04.md        # Composition v1 rationale
+    ├── TEAM-DISCUSSION-2026-04-30.md     # v1.21-era re-alignment
+    └── TEAM-DISCUSSION-2026-05-08.md     # v1.28-era dual-value bridges + decision signal
 templates/                                # Starter templates for target projects
 ├── harness-config.json                   # .claude/harness.json template
 ├── execution-plan.json                   # Execution plan schema

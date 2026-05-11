@@ -12,9 +12,9 @@ metric namespaces.
 ## Complementary Strengths (v1.28+ baseline)
 
 > **Anchor docs**:
-> [TEAM-DISCUSSION-2026-04.md](TEAM-DISCUSSION-2026-04.md) (composition v1),
-> [TEAM-DISCUSSION-2026-04-30.md](TEAM-DISCUSSION-2026-04-30.md) (v1.21 alignment),
-> [TEAM-DISCUSSION-2026-05-08.md](TEAM-DISCUSSION-2026-05-08.md) (**v1.28 + dual-value
+> [history/TEAM-DISCUSSION-2026-04.md](history/TEAM-DISCUSSION-2026-04.md) (composition v1),
+> [history/TEAM-DISCUSSION-2026-04-30.md](history/TEAM-DISCUSSION-2026-04-30.md) (v1.21 alignment),
+> [history/TEAM-DISCUSSION-2026-05-08.md](history/TEAM-DISCUSSION-2026-05-08.md) (**v1.28 + dual-value
 > paths + decision-signal flow + differentiation anchor**).
 > Quarterly contract review is supplemented by **lightweight drift check on every
 > `/gstack-sync --status`** — gstack shipped 7 versions in 8 days through Q2 2026.
@@ -231,7 +231,7 @@ Both hook systems run independently and check different dimensions:
 
 ## Composition Principles & Skill Ownership
 
-Decided in [Team Discussion 2026-04](TEAM-DISCUSSION-2026-04.md). The core rule:
+Decided in [Team Discussion 2026-04](history/TEAM-DISCUSSION-2026-04.md). The core rule:
 **composition over duplication**. oh-my-agents does only what gstack cannot, and
 defers cross-cutting concerns that gstack already owns.
 

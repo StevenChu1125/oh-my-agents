@@ -150,11 +150,11 @@ Key handoffs (composition-based, read-only, glob-based, **dual-value where appli
 - **`llms.txt` index (gstack v1.28+)** → preferred over hand-rolled skill enumeration
 
 See [docs/INTEGRATION.md](docs/INTEGRATION.md) for full bridge manifest;
-[docs/TEAM-DISCUSSION-2026-04.md](docs/TEAM-DISCUSSION-2026-04.md) (original
+[docs/history/TEAM-DISCUSSION-2026-04.md](docs/history/TEAM-DISCUSSION-2026-04.md) (original
 composition rationale),
-[docs/TEAM-DISCUSSION-2026-04-30.md](docs/TEAM-DISCUSSION-2026-04-30.md)
+[docs/history/TEAM-DISCUSSION-2026-04-30.md](docs/history/TEAM-DISCUSSION-2026-04-30.md)
 (v1.21-era re-alignment), and
-[docs/TEAM-DISCUSSION-2026-05-08.md](docs/TEAM-DISCUSSION-2026-05-08.md)
+[docs/history/TEAM-DISCUSSION-2026-05-08.md](docs/history/TEAM-DISCUSSION-2026-05-08.md)
 (v1.28-era dual-value bridges + decision signal + differentiation anchor).
 
 ## Project Structure
